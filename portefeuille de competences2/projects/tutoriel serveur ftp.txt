@@ -1,0 +1,27 @@
+comment faire un serveur FTP
+
+Comme son nom l'indique, le File Transfer Protocol (FTP) est un protocole de transfert de fichiers par Internet. 
+Il permet l'échange de commandes et de données entre un ordinateur ou un logiciel, le client FTP, et un serveur, l'hôte FTP. 
+Ce serveur FTP est un répertoire distant.
+
+Pour cree un serveur FTP il faut:
+
+-Lancer le setup d'installation
+-cree un nouveau dossier FTP puis cree deux dossier private/public
+-taper sur connect to filezilla
+-cree un mot de passe roubuste
+-cliquez sur serveur/configurer
+-rights managements/users
+-ajouter un users
+-cliquez sur add/native path ajouter d:/
+-rajouter le dossier "public" dans le native path puis rajouter un / dans virtual path 
+-aller dans permissions activer le mode read only
+-cree un 2eme users nommer admin et cree un mot de passe
+-cree un 3eme users cree un mot de passe 
+-aller dans le panneau de commandes taper IPconfig puis entre copier l'adresse sur 
+-la partie client section hote
+-connecter l'adresse IP puis le nom d'utilisateur et le mot de passe predefini avant  
+ 
+
+
+
