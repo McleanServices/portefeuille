@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T16:02:41.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LUCbrQApsz6Uqp5akEdX" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T16:08:42.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="J6Wdb7lel459aZAAJcQf" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="827" dy="2083" grid="1" gridSize="22" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -430,6 +430,27 @@
         </mxCell>
         <mxCell id="_83wY9tQXMiuMrTnx9jU-136" value="&lt;b&gt;Diagramme de classe&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="556" y="800" width="132" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="_83wY9tQXMiuMrTnx9jU-138" value="verifi:vehicle" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="1364" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_83wY9tQXMiuMrTnx9jU-139" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="_83wY9tQXMiuMrTnx9jU-138">
+          <mxGeometry x="45" y="66" width="10" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="_83wY9tQXMiuMrTnx9jU-145" value="demande vin et plaque&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="413" y="1452" as="sourcePoint" />
+            <mxPoint x="616" y="1452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_83wY9tQXMiuMrTnx9jU-146" value="taxpaid" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616" y="1513" as="sourcePoint" />
+            <mxPoint x="413" y="1513.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_83wY9tQXMiuMrTnx9jU-147" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="616" y="1430" width="10" height="198" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
